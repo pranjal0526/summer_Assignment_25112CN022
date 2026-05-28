@@ -31,9 +31,8 @@ Day30/
 
 Each Java file contains:
 - Problem Statement
-- Logic Explanation
 - Java Program
-- Sample Output
+
 
 ---
 
@@ -55,7 +54,7 @@ Each Java file contains:
 
 # 📌 Progress Tracker
 
-- [ ] Day 1
+- [✓] Day 1
 - [ ] Day 2
 - [ ] Day 3
 - [ ] Day 4
