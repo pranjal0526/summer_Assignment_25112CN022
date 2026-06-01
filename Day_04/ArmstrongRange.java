@@ -29,5 +29,6 @@ public class ArmstrongRange {
                 System.out.print(num + " ");
             }
         }
+        sc.close();
     }
 }

@@ -27,5 +27,6 @@ public class NthFibonacci {
 
             System.out.println("Nth Fibonacci Term = " + term);
         }
+        sc.close();
     }
 }
