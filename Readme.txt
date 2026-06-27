@@ -80,7 +80,7 @@ Each Java file contains:
 - [✓] Day 24
 - [✓] Day 25
 - [✓] Day 26
-- [ ] Day 27
+- [✓] Day 27
 - [ ] Day 28
 - [ ] Day 29
 - [ ] Day 30
